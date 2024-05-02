@@ -1,0 +1,7 @@
+---
+title: "About"
+---
+
+This website is a work in progress for Dr. Sadler's HIST 5454 course at Virginia Tech. It showcases the ways in which the media reported on and published materials relating to public perceptions of the space program.
+
+It is maintained by Bailey Evans, a second year history master's student at Virginia Tech. His research focuses on international cooperation in space between the United States and Soviet Union during the Cold War and public perceptions of this cooperation on both sides of the Iron Curtain.
